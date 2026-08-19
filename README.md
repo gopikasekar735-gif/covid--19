@@ -1,4 +1,4 @@
-# covid--19
+# covid-19
 
 The objective of this analysis is to develop a** Convolutional Neural Network (CNN)** for
 classifying medical images into COVID and Normal categories. The dataset contains 251 RGB
